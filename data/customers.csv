@@ -1,0 +1,501 @@
+customer_id,name,age,city,risk_score
+CUST1000,Justin Sullivan,45.0,Allenfurt,0.5
+CUST1001,Darryl Murray,38.0,Kathychester,0.5
+CUST1002,Joseph Pineda,47.0,Port Janetshire,0.2
+CUST1003,Diana Ramos DVM,58.0,Smithfurt,1.0
+CUST1004,Charles Campos,37.0,Nicolefort,0.5
+CUST1005,Angela Frazier,,Lake Markland,0.2
+CUST1006,Taylor Jones,58.0,Robertshire,0.2
+CUST1007,Ms. Jessica Robinson,49.0,Lake Lisastad,0.2
+CUST1008,Angela Torres,34.0,North Joshua,0.2
+CUST1009,Joseph Sexton,46.0,Matthewville,0.2
+CUST1010,John Becker,34.0,New Dennis,0.2
+CUST1011,Matthew Lopez,34.0,Whitneyborough,0.2
+CUST1012,Sean Mccann,42.0,Lindafurt,0.2
+CUST1013,Eric Ferguson,17.0,New Aimeeville,0.9
+CUST1014,Jacob Dominguez,19.0,Danielsstad,
+CUST1015,Donald Mason,33.0,Jasonside,0.5
+CUST1016,April Wolf,27.0,Port Edward,0.5
+CUST1017,Stephen Carroll,43.0,West Adam,1.0
+CUST1018,Gregory Davis,29.0,Andrewburgh,0.2
+CUST1019,Michael Mayo,23.0,North Ashleyton,0.2
+CUST1020,William Ross,57.0,Williamburgh,1.0
+CUST1021,Michele Allen,37.0,West Seanchester,0.9
+CUST1022,Carlos Adams,40.0,North Derrickhaven,0.9
+CUST1023,Suzanne Hall,150.0,South Sarah,0.2
+CUST1024,Allison Kline,33.0,Smithstad,0.2
+CUST1025,Mr. Patrick Pacheco MD,41.0,South Kathleen,0.5
+CUST1026,Nathan Grant,26.0,Lake Davidburgh,1.0
+CUST1027,Wyatt Rodriguez,44.0,Ballardside,0.5
+CUST1028,Kenneth Downs,32.0,Gillespieview,0.5
+CUST1029,Patricia Marks,36.0,East Rebeccatown,0.2
+CUST1030,Bonnie Conrad,32.0,South Christopher,0.9
+CUST1031,Kimberly Freeman,62.0,Port Davidbury,0.2
+CUST1032,Jeffrey Edwards,39.0,Mcguirebury,0.2
+CUST1033,George Jimenez,27.0,South Tamarabury,0.5
+CUST1034,Sharon Brown,49.0,Bradleybury,0.5
+CUST1035,Eric Ali,25.0,Chapmanchester,0.2
+CUST1036,Bobby Hancock,42.0,Charleston,0.2
+CUST1037,Karen Smith,16.0,South Brandon,0.5
+CUST1038,Leah Lucas,24.0,Kevinburgh,0.2
+CUST1039,Matthew Green,42.0,North William,0.5
+CUST1040,James Walker,48.0,Brucefurt,0.2
+CUST1041,Johnny Morrow,42.0,New Susan,0.5
+CUST1042,Michael Anderson,38.0,Lake Joseph,0.5
+CUST1043,Kyle Cummings,36.0,West Suzanne,
+CUST1044,Teresa Mitchell,22.0,Sharpside,0.2
+CUST1045,Dennis Berry,31.0,Sheilamouth,0.2
+CUST1046,Julie Lane,34.0,East Crystal,
+CUST1047,Amanda Williams,52.0,Caldwellshire,1.0
+CUST1048,Thomas Johnston,44.0,Lake Elizabeth,0.2
+CUST1049,David Pacheco,18.0,East Dianastad,0.9
+CUST1050,Maria Clark,43.0,North Robertmouth,0.2
+CUST1051,Preston Ortiz,35.0,Port Sarahview,0.5
+CUST1052,William Joyce,31.0,Rayland,0.9
+CUST1053,Michelle Gordon,47.0,Robertport,0.5
+CUST1054,Danny Aguilar,52.0,East Ericview,0.5
+CUST1055,Victoria Smith,51.0,Moralestown,0.5
+CUST1056,Troy Tran,29.0,Masonchester,0.2
+CUST1057,Catherine Thomas,36.0,Lake Mark,1.0
+CUST1058,Dr. Jeffrey Curtis,43.0,Matthewmouth,0.9
+CUST1059,Jennifer Salinas,51.0,Bethtown,1.0
+CUST1060,Cynthia Johnson,34.0,Wilsonborough,0.2
+CUST1061,Joy Long,37.0,Lindaland,0.9
+CUST1062,Spencer Roberts,26.0,Sarahside,1.0
+CUST1063,Alyssa Smith,25.0,Darrylton,0.2
+CUST1064,Matthew Castro,49.0,East Nathan,
+CUST1065,Andrew Hunt,56.0,Jasonbury,0.9
+CUST1066,Louis Graham,39.0,Kevinfort,0.5
+CUST1067,Brandy Ray,52.0,Port Rebecca,0.9
+CUST1068,James Ramirez,44.0,Port Andrea,0.2
+CUST1069,Mr. Brandon Christian,32.0,East Harrymouth,0.9
+CUST1070,Billy Holland,44.0,Hammondfurt,0.2
+CUST1071,Stephen Mitchell,58.0,Reedtown,0.2
+CUST1072,Melissa Jones,39.0,Port Robertfurt,0.2
+CUST1073,Stephanie Colon,58.0,New Elizabeth,0.9
+CUST1074,Laura Miles,8.0,Davidfurt,0.5
+CUST1075,Allison Pruitt,49.0,Teresachester,0.5
+CUST1076,Julian Ford,41.0,New Tammy,0.2
+CUST1077,Andrew Hardin,36.0,East Aaronbury,0.9
+CUST1078,Natalie Hardy,41.0,North Dennisstad,0.2
+CUST1079,Gina Gonzalez,16.0,Camposmouth,0.9
+CUST1080,Beverly Moore,37.0,Meyersside,0.5
+CUST1081,Karen Roy,44.0,Martinezville,0.2
+CUST1082,Mark Middleton,57.0,East Marioburgh,0.5
+CUST1083,Rebecca Anderson,33.0,New Jennifershire,0.2
+CUST1084,David Mccullough,30.0,Lambborough,0.9
+CUST1085,Matthew Robinson,33.0,Rickyfurt,0.5
+CUST1086,Kevin Price,50.0,Zamoraton,0.2
+CUST1087,Oscar Kent,43.0,Thompsonton,0.9
+CUST1088,Alison Anderson,33.0,Port Gailchester,0.2
+CUST1089,April Jackson,46.0,West Edwardton,0.5
+CUST1090,Maurice Graham,41.0,Schmidtside,1.0
+CUST1091,Raymond Delgado,51.0,Carriehaven,0.5
+CUST1092,Eric Holmes,31.0,Markview,0.2
+CUST1093,Joseph Edwards,36.0,South Robert,1.0
+CUST1094,Nicole Martin,35.0,Lake Brent,0.5
+CUST1095,Karen Sutton,22.0,Stephentown,0.2
+CUST1096,Crystal Mills,43.0,North Sandra,0.2
+CUST1097,Kristina Riley,43.0,Moranstad,0.9
+CUST1098,Sara Suarez,40.0,West Andreaside,0.5
+CUST1099,Linda Stephens,37.0,Daymouth,0.5
+CUST1100,Amy Thornton,23.0,Williamston,0.9
+CUST1101,Robin Cross,34.0,South Jeff,0.9
+CUST1102,Noah White,35.0,Loganmouth,0.2
+CUST1103,Autumn Sharp,30.0,North Tina,0.2
+CUST1104,Sean Walker,38.0,Samanthafort,0.2
+CUST1105,Melinda Porter DDS,44.0,Lake Annshire,0.9
+CUST1106,Mark Parsons,62.0,Angelaland,
+CUST1107,Natasha Contreras,42.0,Vaughanborough,0.5
+CUST1108,David Dunn,43.0,Jenniferside,0.9
+CUST1109,Anne Huff,39.0,Cindyfort,0.9
+CUST1110,Lauren Schmidt,16.0,Jamesview,0.2
+CUST1111,Nicholas Thomas,39.0,North Sarah,0.9
+CUST1112,Audrey Torres,40.0,Walkerton,0.2
+CUST1113,Anthony Moore,69.0,South Danielfurt,0.9
+CUST1114,John Dean,37.0,Matthewton,0.2
+CUST1115,Matthew Ball,43.0,New Charles,0.2
+CUST1116,Lindsay Velasquez,39.0,Youngberg,0.9
+CUST1117,Anthony Reilly,25.0,Bartonchester,0.2
+CUST1118,Donald Keller,53.0,South Janetbury,0.2
+CUST1119,Gina Mitchell,49.0,Vanessafort,0.9
+CUST1120,Brian Zamora,49.0,Port Lisabury,0.9
+CUST1121,Mr. Tim Thomas DDS,29.0,Port Cynthiaside,0.5
+CUST1122,Adrian Warren,56.0,Melindaville,0.5
+CUST1123,James Carr,23.0,New Steven,0.5
+CUST1124,Katherine Harrington,47.0,East Jessica,0.2
+CUST1125,Mark Johns,66.0,Port Robynport,0.2
+CUST1126,Jesus Garcia Jr.,28.0,South Kennethberg,0.2
+CUST1127,Christopher Hernandez,33.0,Port Shane,1.0
+CUST1128,Richard Anderson,41.0,East Matthew,0.5
+CUST1129,Noah Hatfield,33.0,Joshuaport,0.5
+CUST1130,Denise Collins,21.0,East Tammymouth,0.5
+CUST1131,Brenda Stephens,40.0,South Michael,1.0
+CUST1132,Michael Martin,27.0,East Karenchester,0.2
+CUST1133,Jesse Johnson,45.0,West Michelefurt,0.5
+CUST1134,David Bailey,28.0,West Michael,0.5
+CUST1135,Jessica Maxwell,58.0,Martinfurt,0.5
+CUST1136,Matthew Rivera,30.0,Randyshire,
+CUST1137,Krista Molina,36.0,Chelsealand,0.9
+CUST1138,Omar Poole,49.0,Nunezshire,1.0
+CUST1139,Travis Benitez,25.0,Raymondchester,0.5
+CUST1140,Margaret Lee,42.0,Karifort,0.5
+CUST1141,Virginia Smith,55.0,Claytonchester,1.0
+CUST1142,Mitchell Benjamin,20.0,South Davidmouth,0.9
+CUST1143,Jennifer Mcdowell,42.0,Davidstad,0.2
+CUST1144,James Lee,43.0,Paulmouth,0.5
+CUST1145,Christopher Taylor,49.0,South Stephen,0.5
+CUST1146,Dennis Moore,25.0,Levichester,0.5
+CUST1147,Joy Hernandez,24.0,East Amanda,0.9
+CUST1148,Zachary Vincent,46.0,Simonview,1.0
+CUST1149,Steven Coleman,43.0,North Danielleberg,1.0
+CUST1150,Charles Sherman,43.0,Michaeltown,0.5
+CUST1151,Alison James,44.0,Thompsonmouth,0.2
+CUST1152,Melanie Humphrey,31.0,Port Robynport,1.0
+CUST1153,Kurt Moore,42.0,East Katelynhaven,0.9
+CUST1154,Patrick Christian,43.0,Judychester,0.2
+CUST1155,Lauren Campos,31.0,Port Joditon,1.0
+CUST1156,Karen Valdez,62.0,East Ricardoview,0.9
+CUST1157,Mr. Dakota Lopez MD,45.0,South Meganville,0.5
+CUST1158,Edward Warner,25.0,Amyland,0.5
+CUST1159,Kimberly Payne,47.0,Charleston,0.2
+CUST1160,David Castro,28.0,Derrickton,
+CUST1161,Ryan Williamson,49.0,New Christopherfurt,0.2
+CUST1162,Steven Jones,53.0,New Monica,0.9
+CUST1163,Stephen Young,30.0,West Kathyton,
+CUST1164,Melanie Cochran,51.0,Williamsland,0.2
+CUST1165,Ruben Middleton,44.0,Port Latoyaport,0.2
+CUST1166,Rebecca Mckee,49.0,Carrchester,0.5
+CUST1167,Paul Harrison,62.0,Nelsonmouth,1.0
+CUST1168,Mary Griffith,37.0,East Robert,0.2
+CUST1169,Alyssa Swanson,30.0,Pottsburgh,0.2
+CUST1170,Anna Davis,29.0,Trujillomouth,0.9
+CUST1171,Dr. Veronica Rodriguez,30.0,South Zacharyburgh,0.5
+CUST1172,Kaitlyn Gill,39.0,Jasonfurt,0.2
+CUST1173,Brandon Miller,44.0,Hardystad,0.5
+CUST1174,Amy Woodward,43.0,Christopherville,0.2
+CUST1175,Tiffany Mcgee,49.0,Scottview,0.2
+CUST1176,Beth Roberts,40.0,South Kathy,0.5
+CUST1177,Ricky Adams,57.0,Lake Samanthafurt,0.5
+CUST1178,Katrina Davis,36.0,South Matthewview,1.0
+CUST1179,Jason Nguyen,72.0,Port Teresaton,0.2
+CUST1180,Elizabeth Arias,47.0,Williamsmouth,0.5
+CUST1181,Jacqueline West,29.0,Ginaville,0.5
+CUST1182,Michael Wall,27.0,Victoriaside,
+CUST1183,Kevin Mendez,45.0,Port Francischester,0.5
+CUST1184,Steven Marks,37.0,Dianeborough,0.2
+CUST1185,Timothy Taylor,48.0,South Aaronhaven,1.0
+CUST1186,Mary Weber,45.0,East Maryhaven,0.2
+CUST1187,Darren Harris,39.0,Williamland,0.5
+CUST1188,Joseph Johnson,29.0,Patriciamouth,
+CUST1189,Christopher Howard,21.0,Lake Theresa,1.0
+CUST1190,Justin Johnson,34.0,Robinsonshire,0.5
+CUST1191,Joseph Pittman,50.0,Michaelbury,0.5
+CUST1192,Valerie Harris,42.0,Solistown,
+CUST1193,Annette Larson,25.0,North Mark,0.9
+CUST1194,Devon Johnson,42.0,Jasontown,0.2
+CUST1195,Hayley Griffith,44.0,East Kayla,0.9
+CUST1196,Michael Burgess,29.0,East Kimberlychester,0.2
+CUST1197,Paula Marshall,41.0,East Mario,0.2
+CUST1198,James George,40.0,Whitneymouth,
+CUST1199,Jerry Marshall,26.0,New Deborahfort,0.5
+CUST1200,Nicole Rodriguez,44.0,South Richard,0.5
+CUST1201,William Martinez,46.0,East Andrewfort,
+CUST1202,Stuart Perry,52.0,Kendraland,0.9
+CUST1203,Tanya Ewing,52.0,North Marcusshire,0.5
+CUST1204,Karen Armstrong,23.0,Tylertown,0.5
+CUST1205,Amy Clarke,28.0,Travismouth,0.5
+CUST1206,George Brown,46.0,Port Ethanton,0.5
+CUST1207,Robert Liu,46.0,North Charlene,0.5
+CUST1208,Patrick Lopez,46.0,Jennifermouth,0.2
+CUST1209,Brandon Smith,86.0,Nelsonberg,0.2
+CUST1210,Kristie Summers,46.0,Hansenbury,0.9
+CUST1211,Gregory Higgins,53.0,Cherylchester,1.0
+CUST1212,David Meyers,51.0,Lake Hayden,0.2
+CUST1213,Melanie Sanchez,47.0,Lake Josephport,0.2
+CUST1214,Jo Knight,36.0,Jonathonborough,0.5
+CUST1215,Wesley Jackson,49.0,Ianchester,0.5
+CUST1216,Stephanie Pruitt,30.0,Lake Jasonside,
+CUST1217,Timothy Perez,37.0,North Rachelport,0.2
+CUST1218,Tim Garcia,34.0,Seanshire,0.9
+CUST1219,Nathan Atkins,40.0,Fletcherborough,0.5
+CUST1220,Jesus Wood,67.0,Port Alexa,
+CUST1221,Jeremy Howell,17.0,North Antoniostad,0.2
+CUST1222,Susan Torres,48.0,Bennettfurt,0.2
+CUST1223,Laura May,20.0,Lake Robert,0.5
+CUST1224,Joe Wilkinson,34.0,Whitneyfort,
+CUST1225,Zachary Young,53.0,Beverlyport,0.2
+CUST1226,Robert Rice,40.0,Port Jay,0.9
+CUST1227,Jeff Daniels,27.0,Vickieport,0.2
+CUST1228,Gregory Dominguez,31.0,Gordonview,0.5
+CUST1229,Tonya Mcgrath,48.0,West Manuelmouth,0.2
+CUST1230,Kyle Bowen,31.0,Williamsport,
+CUST1231,Amber Leonard,42.0,Hallview,0.2
+CUST1232,Diane Williams,40.0,Julieburgh,0.9
+CUST1233,Mark Stewart,32.0,Johnfurt,0.9
+CUST1234,Carrie Harper,65.0,Gibsonchester,0.9
+CUST1235,Lisa Williams,47.0,Henryville,0.2
+CUST1236,Amy Allen,15.0,New Tina,0.5
+CUST1237,David Abbott,42.0,West Amy,0.2
+CUST1238,Linda Parks,32.0,Port Deborah,0.2
+CUST1239,Justin Moyer,50.0,South Brycetown,0.9
+CUST1240,Tyler Ferrell,30.0,Larsenport,
+CUST1241,Jason Hamilton,38.0,East Kara,
+CUST1242,Megan Bryant,46.0,Daniellechester,0.2
+CUST1243,Matthew Jones,50.0,Port Olivia,
+CUST1244,Anthony Ryan,25.0,Castillostad,0.2
+CUST1245,Sabrina Thompson,35.0,Michelleville,0.5
+CUST1246,Ashley Howard,34.0,Bondberg,0.5
+CUST1247,Kimberly Chapman,32.0,New Calvinfort,0.9
+CUST1248,Dakota Mcgee,61.0,North William,0.9
+CUST1249,Jacob Owen,44.0,North Jessica,0.2
+CUST1250,Michelle Anderson,24.0,West Tara,0.2
+CUST1251,Samantha Jefferson,51.0,Port Natashaland,0.2
+CUST1252,Krystal Jackson,65.0,Rasmussenton,0.5
+CUST1253,Emily Jennings,52.0,South Hannahberg,0.2
+CUST1254,Jeffery Ruiz,21.0,Mackton,0.5
+CUST1255,Allen Johnson,34.0,Lake Williamfurt,0.5
+CUST1256,William Long,55.0,Cathyfurt,0.5
+CUST1257,Mrs. Courtney Howell,31.0,Jonathanburgh,0.5
+CUST1258,Dawn Mckenzie,45.0,New Steventown,0.2
+CUST1259,Angela Morris,49.0,Huffmanborough,1.0
+CUST1260,Brett Richardson,28.0,Jenniferstad,0.9
+CUST1261,Debra Garcia,39.0,Lake Courtneyborough,0.2
+CUST1262,Martin Mcpherson,1.0,Derekchester,0.9
+CUST1263,Michael Craig,27.0,East Elizabeth,0.5
+CUST1264,Kevin Pineda,36.0,Martinhaven,0.9
+CUST1265,Phyllis Boyer,25.0,South Robert,0.9
+CUST1266,Jill Lawrence,59.0,West Lisa,0.5
+CUST1267,Charles Weaver,22.0,Waltonmouth,
+CUST1268,Patty Jones,34.0,Singletonfort,0.2
+CUST1269,Rebecca Watts,41.0,Lake Amberview,0.5
+CUST1270,Laura Atkins,57.0,Meyertown,0.5
+CUST1271,Michelle Young,22.0,Amandaside,0.2
+CUST1272,Dorothy Armstrong,53.0,New Johnborough,0.2
+CUST1273,Amber Lewis,40.0,Sherrytown,0.9
+CUST1274,Kathleen Hansen,28.0,Jamesfort,1.0
+CUST1275,Michael Rojas,45.0,Petersonland,0.5
+CUST1276,Nicole Booth,42.0,Belindaburgh,0.2
+CUST1277,Deborah Perez,32.0,New Feliciaside,0.2
+CUST1278,Scott Skinner,40.0,Lake Veronicafurt,
+CUST1279,Mr. Jacob Marshall,35.0,Blakeside,1.0
+CUST1280,Diana Stokes,41.0,Morseport,0.2
+CUST1281,Jenny Martin,47.0,Lisaside,0.5
+CUST1282,Donald Harrison,59.0,East Diana,0.2
+CUST1283,John Greene,25.0,Milesfort,0.5
+CUST1284,Timothy Ortiz,65.0,New Deborah,0.5
+CUST1285,Courtney Herrera,16.0,Port Danaside,0.9
+CUST1286,Hannah Sanders,38.0,Joshuaburgh,0.2
+CUST1287,Annette Wyatt,47.0,North Daniel,
+CUST1288,Pamela Weaver,43.0,Lake William,0.2
+CUST1289,Christopher Carpenter,32.0,Sarahstad,1.0
+CUST1290,Amber Strickland,37.0,Kelleytown,0.9
+CUST1291,Tammy Baker,34.0,Davidport,0.5
+CUST1292,Zachary Gordon,32.0,Hughesside,0.5
+CUST1293,Brian Hicks,50.0,Lake Ashley,0.5
+CUST1294,Keith Jones,44.0,Dianeburgh,0.2
+CUST1295,Mary Young,31.0,Haynesside,1.0
+CUST1296,Matthew Cruz,50.0,Martinfurt,0.5
+CUST1297,Sarah Martinez,43.0,Castilloberg,0.2
+CUST1298,Alexis Brown,49.0,East Jane,0.5
+CUST1299,Vicki Beard,47.0,Lake Carlos,
+CUST1300,Jeanette Morgan,30.0,Shannonmouth,0.2
+CUST1301,Andrew Weber,33.0,Port Shane,0.9
+CUST1302,Aaron Le,48.0,Lake Terri,
+CUST1303,Julia Huynh,47.0,Port Dustinmouth,0.5
+CUST1304,Daniel Powell,39.0,Port Ryan,0.2
+CUST1305,Cindy Landry,41.0,East Toddville,0.2
+CUST1306,Robert Moore,55.0,Brianville,0.2
+CUST1307,Mary King,32.0,North Michael,0.2
+CUST1308,Taylor Briggs,46.0,West Joshua,0.9
+CUST1309,Brett Meyers,37.0,Port Jessica,0.2
+CUST1310,Dana Terry,37.0,Elizabethberg,0.5
+CUST1311,Lisa Harmon,53.0,Lake Jacob,0.5
+CUST1312,Daniel Schultz MD,49.0,Port Heather,0.5
+CUST1313,Christopher Lewis,49.0,Nicoleville,1.0
+CUST1314,Angelica Hawkins,55.0,Lake Christopher,0.9
+CUST1315,Meghan Mcknight,40.0,Conwayton,0.2
+CUST1316,Tracey Kelly,48.0,South Scott,
+CUST1317,Tricia Peterson,36.0,West Stephen,0.2
+CUST1318,Mark Lee,43.0,Lake Amy,0.5
+CUST1319,Aaron Anderson,38.0,Moorebury,
+CUST1320,Jason Dunn,41.0,Lake Dawnmouth,0.5
+CUST1321,Steven Rivas,47.0,North Tammybury,0.5
+CUST1322,Brittany Arroyo,30.0,Garyberg,0.2
+CUST1323,Brandy Jackson,65.0,Lake Misty,0.9
+CUST1324,Laura Russell,27.0,Jerryton,0.2
+CUST1325,April Fisher,25.0,Lake Melissamouth,
+CUST1326,Jessica Taylor,53.0,West Nicolechester,0.9
+CUST1327,Ryan Mccarthy,49.0,Port Emilymouth,0.5
+CUST1328,Sarah Lawrence,47.0,Kellyberg,0.5
+CUST1329,Christopher Silva,47.0,Webbhaven,0.5
+CUST1330,Jason Li,39.0,Lake Markton,0.2
+CUST1331,Monica Adams,29.0,Port Ericaville,0.9
+CUST1332,Jerry Drake,40.0,Smithborough,0.9
+CUST1333,Jill Hanson,31.0,West David,0.5
+CUST1334,Melinda Schmidt,51.0,Port Jonathanville,0.2
+CUST1335,Matthew Henry,38.0,North Justin,0.5
+CUST1336,Ellen King,30.0,Allenton,0.2
+CUST1337,Kelly Johnston,36.0,South Peterhaven,
+CUST1338,Daniel Montgomery,44.0,New Jeremiah,1.0
+CUST1339,Robert Haley,33.0,South Matthewbury,0.2
+CUST1340,Anna Harris,30.0,Johnchester,1.0
+CUST1341,Jeffrey Mullen,42.0,Michellefurt,0.5
+CUST1342,Gina Gonzalez,42.0,Caseyside,0.2
+CUST1343,Allison Walsh,33.0,Justintown,0.5
+CUST1344,Crystal Warner,34.0,West Spencerland,0.9
+CUST1345,Catherine Ramirez,42.0,West Sabrinaland,0.9
+CUST1346,Matthew Nelson,22.0,West Shawn,0.9
+CUST1347,Paula Ritter,23.0,Michelleside,0.5
+CUST1348,Nicole Mitchell,31.0,East Aimee,0.5
+CUST1349,Stacy Fuller,37.0,West Christianbury,0.9
+CUST1350,Lisa Williams,43.0,North Jessica,0.2
+CUST1351,Tiffany Pruitt,57.0,Charlesfurt,0.5
+CUST1352,Hayden Rogers,50.0,New Colleenport,0.2
+CUST1353,George Williams,38.0,Cassandramouth,1.0
+CUST1354,Sara Grant,39.0,Amyland,1.0
+CUST1355,Caleb Flores,27.0,Kristinaton,
+CUST1356,Brett King,39.0,Gibbsmouth,0.9
+CUST1357,Mark Martin,36.0,Lake Courtney,1.0
+CUST1358,Christopher Parker,43.0,Port Olivia,0.2
+CUST1359,Matthew Wagner,30.0,East Rhonda,0.5
+CUST1360,Patricia Roberts,46.0,East Tonyachester,1.0
+CUST1361,Harold Durham II,58.0,West Troyfort,
+CUST1362,Stephanie Cooper,38.0,North Amy,0.5
+CUST1363,Dillon Luna Jr.,44.0,Hannahside,0.2
+CUST1364,Tamara Hardy,48.0,Littletown,1.0
+CUST1365,Melinda Nielsen,35.0,New Kathryn,1.0
+CUST1366,Melissa Hamilton,42.0,Port Robertoport,1.0
+CUST1367,Justin Peterson,40.0,West Jenniferton,0.5
+CUST1368,Priscilla Hamilton,41.0,Jonesfurt,0.9
+CUST1369,Jeffrey Parker,30.0,North Bruce,0.9
+CUST1370,Jeremy Perez,40.0,West Melissaville,0.2
+CUST1371,Gwendolyn Harrell,45.0,New Joel,0.9
+CUST1372,Shawn Krause,57.0,Lake Jaimemouth,
+CUST1373,Rachel Anderson,51.0,West Keith,0.5
+CUST1374,Lauren Scott,65.0,Wallacemouth,0.2
+CUST1375,Christopher Flowers,30.0,Juarezberg,0.2
+CUST1376,Chad Gonzales,50.0,Lake Chad,
+CUST1377,Lisa Fox,42.0,Hamiltonside,0.5
+CUST1378,Shannon Barton,66.0,West James,0.2
+CUST1379,Joel Jenkins,30.0,Dorseyland,0.9
+CUST1380,Amanda Fowler,29.0,Francostad,
+CUST1381,Daniel Cooper,32.0,South Nathan,0.2
+CUST1382,Jerry Watkins,14.0,Denisemouth,0.5
+CUST1383,Kimberly Arroyo,33.0,West Daniel,0.9
+CUST1384,Charles Singh,30.0,South Jennifermouth,0.2
+CUST1385,Robert Brooks,41.0,Port Zachary,0.5
+CUST1386,Maria Jones,44.0,East Annaburgh,0.9
+CUST1387,Julia Martinez,62.0,East Eileenmouth,0.5
+CUST1388,Mr. Anthony Berg,51.0,West Ryan,0.2
+CUST1389,Nicolas Dalton,33.0,Tiffanymouth,
+CUST1390,Karen James,29.0,North Joshua,0.9
+CUST1391,Margaret Morton,45.0,North Laurie,
+CUST1392,Timothy Carpenter,24.0,Turnerton,0.9
+CUST1393,William Allen,61.0,North Janice,0.5
+CUST1394,Christina Lindsey,54.0,Lake Rodneyhaven,1.0
+CUST1395,Jennifer Burns,34.0,Edwardschester,0.9
+CUST1396,Sarah Valencia,19.0,Conradshire,1.0
+CUST1397,John Martinez,56.0,New Joelborough,0.2
+CUST1398,Mark White,38.0,East Tammie,0.9
+CUST1399,Patricia Mckenzie,54.0,North Danielhaven,0.5
+CUST1400,Kara Bell,20.0,West Anthony,0.5
+CUST1401,Courtney Shaw,32.0,West Lindsey,0.5
+CUST1402,Mr. Billy Park,40.0,North Briannaton,0.9
+CUST1403,Denise Michael,40.0,Andrewberg,1.0
+CUST1404,Scott Hines,34.0,West Jenniferside,0.9
+CUST1405,Patricia Edwards,47.0,Leechester,0.5
+CUST1406,Amy Jensen,27.0,Anthonyberg,0.5
+CUST1407,Gregory Lowe,38.0,Lake Sethport,0.9
+CUST1408,Annette Caldwell,41.0,Williamsview,0.2
+CUST1409,Marc Bishop,46.0,South Lisaport,0.2
+CUST1410,Mary Roth DVM,48.0,North Mark,0.2
+CUST1411,Blake Morgan,26.0,South Allison,0.2
+CUST1412,Kelly Rice,21.0,Melissafurt,0.2
+CUST1413,Benjamin Cohen,55.0,Maryland,0.2
+CUST1414,Amy Wilson,43.0,Richardsonbury,
+CUST1415,Eileen Young,31.0,Chadberg,
+CUST1416,Sarah Simmons,58.0,Elliotthaven,1.0
+CUST1417,Pamela Brown,41.0,Mcintyrebury,0.5
+CUST1418,Deborah Vargas,54.0,Port Amanda,0.2
+CUST1419,Jessica Richardson,40.0,Lake Samantha,0.5
+CUST1420,Bill Young,64.0,Derrickside,0.2
+CUST1421,Cheryl Shaw MD,61.0,Michaelside,1.0
+CUST1422,Robert Wolfe,37.0,South Pennyport,0.9
+CUST1423,Jaime Bowman,51.0,Haroldside,
+CUST1424,Jerry Morris,47.0,Dustinborough,0.5
+CUST1425,David Robinson,56.0,East Crystal,0.9
+CUST1426,Brian Perez,28.0,East David,1.0
+CUST1427,Troy Colon,48.0,East John,0.5
+CUST1428,Ashley Reilly,52.0,Barnettview,0.5
+CUST1429,Eric Williams,18.0,West Christophershire,0.2
+CUST1430,Derek Knight,25.0,Barnesfurt,1.0
+CUST1431,Linda Thomas,15.0,Port Stephaniefurt,0.2
+CUST1432,Jill Taylor,36.0,Williamtown,1.0
+CUST1433,Hannah Roy,48.0,Kimberlyland,0.5
+CUST1434,Daniel Perry,58.0,Ashleefurt,0.5
+CUST1435,Joseph Ramirez,40.0,Tracyburgh,0.5
+CUST1436,Amanda Hansen,59.0,North Thomaschester,0.2
+CUST1437,Shannon Lee,23.0,Rodriguezville,0.2
+CUST1438,Carrie Harrison,19.0,South Brian,0.2
+CUST1439,David Roberts,39.0,Matthewmouth,0.2
+CUST1440,Hunter Clark,44.0,Calderonland,0.9
+CUST1441,Wanda Flores,39.0,Melissaborough,0.2
+CUST1442,Nicole Nelson,15.0,East Michelle,
+CUST1443,Elizabeth Novak,38.0,Michaelchester,1.0
+CUST1444,Caitlin Blair,24.0,Lake Charles,0.9
+CUST1445,Joshua Wiley,48.0,East Antonioshire,1.0
+CUST1446,Laura Brown,44.0,Michaelview,1.0
+CUST1447,Mark Dean,28.0,Michaelborough,0.2
+CUST1448,Christina Mcdonald,33.0,Schwartzhaven,0.2
+CUST1449,Antonio Watts,27.0,East Charleston,0.9
+CUST1450,Mr. Richard Moore,39.0,Lake Randyborough,0.5
+CUST1451,Olivia Combs,51.0,Pughfort,0.2
+CUST1452,James Mendoza,28.0,East Sarahborough,0.9
+CUST1453,Brandy White,46.0,Mccarthyside,0.2
+CUST1454,Matthew Small,33.0,New Lawrence,0.2
+CUST1455,Jonathan Cooley,30.0,Robertsport,0.5
+CUST1456,Sarah Moore,38.0,Lake Christina,0.5
+CUST1457,Lauren Hernandez,27.0,Oliverland,0.5
+CUST1458,Kelly Rodgers,33.0,New Margaretfort,
+CUST1459,Stuart Moore,25.0,Edwardsfort,0.9
+CUST1460,Dr. George Morrison,63.0,Tannershire,0.2
+CUST1461,Jennifer Lin,40.0,East Stevenmouth,0.2
+CUST1462,Tracy Martinez,31.0,North Annebury,0.9
+CUST1463,Michelle Gonzalez,42.0,Proctorville,1.0
+CUST1464,Richard Cox,38.0,Lake Dylan,0.9
+CUST1465,Carrie Douglas,37.0,East Ruben,0.9
+CUST1466,Derek Young,47.0,Jamesmouth,0.5
+CUST1467,Jessica Orozco,49.0,Dawsonmouth,0.5
+CUST1468,Justin Burns,33.0,Donaldborough,
+CUST1469,Katie Berger,33.0,Brownstad,0.5
+CUST1470,Pamela Rogers,36.0,Port James,0.2
+CUST1471,Ashley Liu,12.0,North Daniel,0.2
+CUST1472,Michael Cowan,21.0,Pierceside,0.9
+CUST1473,Andrew Sanchez,56.0,Berryville,0.5
+CUST1474,Michael Thompson,59.0,Jenningsland,
+CUST1475,John Roberts,37.0,Lake Linda,0.2
+CUST1476,Joan Thomas,46.0,West Bethside,0.5
+CUST1477,Angela Stein,43.0,Jessicatown,
+CUST1478,Derek Levine,76.0,Scottstad,0.9
+CUST1479,Roy Mendoza,53.0,Lake Joshua,0.5
+CUST1480,Jillian Campos,38.0,Troyfurt,0.5
+CUST1481,Austin Stevenson,28.0,Littlestad,0.5
+CUST1482,Jeremy Buchanan,20.0,West Mandymouth,0.9
+CUST1483,Julie Mack,42.0,South Ashley,0.2
+CUST1484,Laura Ball,30.0,Port Katherineburgh,0.5
+CUST1485,Jonathan Vazquez,22.0,New Carlside,0.5
+CUST1486,Teresa Rodriguez,32.0,Doyleberg,0.2
+CUST1487,Paula Estrada,27.0,South Brenda,0.9
+CUST1488,Jennifer Salinas DDS,60.0,Jessicashire,0.9
+CUST1489,Mary Mendez,50.0,North Loriside,0.5
+CUST1490,Bob Arnold,39.0,Port Amandaton,0.9
+CUST1491,Brian Johnson,57.0,New Norma,0.9
+CUST1492,Deborah Perry,40.0,Aguirremouth,0.9
+CUST1493,Marissa Yang,29.0,East Christinestad,0.9
+CUST1494,Seth Peterson,58.0,South Maryland,0.5
+CUST1495,David Neal,46.0,Morsemouth,0.5
+CUST1496,Michelle Weeks,27.0,New Pamela,0.5
+CUST1497,Lisa Wilson,37.0,Lopezside,0.9
+CUST1498,Douglas Baker,29.0,East Luisport,0.2
+CUST1499,Michelle Jones,23.0,North Kristen,0.9
